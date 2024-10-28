@@ -1,1 +1,1 @@
-# mini_dinamic_web_aplication
+# mini_dynamic_web_aplication
